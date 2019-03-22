@@ -7,7 +7,7 @@
 
 
 <?php
-echo "Hello World!I've made a \r\n change to this !!";
+echo nl2br("Hello World!I've made a \r\n change to this !!");
 
 echo "Will this work properly ????";
 
