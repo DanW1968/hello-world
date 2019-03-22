@@ -15,7 +15,7 @@
 </head>
    
 <body>
-    <div class="box"></div>    
-    <h1><?php echo "Dirty Leeds :-D "; ?></h1>
+    <div class="box"><h1><?php echo "Dirty Leeds :-D "; ?></h1></div>    
+    
 </body>
 </html>
