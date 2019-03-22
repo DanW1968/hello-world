@@ -7,7 +7,7 @@
     .box {
     width: 300px;
     height: 150px;
-    background: #ffb6c1;
+    background: #f1f442;
     border: 2px solid #f08080;
     border-radius: 20px;
 } 
