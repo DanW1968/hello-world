@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <title>Dirty Leeds !!</title>
+    <title>Danny's world famous Dirty Leeds Web App !!</title>
 </head>
 <body>
-    <p>Hello World!<p>
+    <p>Dirty Leeds!<p>
 </body>
 </html>
