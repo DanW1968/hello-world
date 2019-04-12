@@ -8,6 +8,6 @@
     <marquee behavior="scroll" direction="left">Dirty Leeds !!!!</marquee>
     <marquee behavior="scroll" direction="right">Dirty Leeds !!!!</marquee>
     <marquee behavior="scroll" direction="left">Dirty Leeds !!!!</marquee>
-    <marquee behavior="scroll" direction="right">Dirty Leeds !!!!</marquee>
+    <marquee behavior="scroll" direction="right"><b>Dirty Leeds !!!!<b></marquee>
 </body>
 </html>
