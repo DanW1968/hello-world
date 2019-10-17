@@ -11,8 +11,8 @@
     <marquee behavior="scroll" direction="right"><b>Dirty Leeds !!!!<b></marquee>
 <?php
 // Some code to be executed
-        $color = "blue";
-        echo "Hello, world!" . $color . ;
+//        $color = "blue";
+//        echo "Hello, world!" . $color . ;
 ?>
         
 </body>
