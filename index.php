@@ -14,5 +14,6 @@
         $color = "blue";
         echo "Hello, world!" . $color . ;
 ?>
+        
 </body>
 </html>
