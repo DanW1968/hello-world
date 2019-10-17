@@ -12,7 +12,7 @@
 <?php
 // Some code to be executed
 //        $color = "blue";
-          echo "Hello, world!";
+          echo "Hello, world!" . $color . "<br>";
 ?>
         
 </body>
