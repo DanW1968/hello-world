@@ -9,5 +9,9 @@
     <marquee behavior="scroll" direction="right"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="left"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="right"><b>Dirty Leeds !!!!<b></marquee>
+<?php
+// Some code to be executed
+echo "Hello, world!";
+?>
 </body>
 </html>
