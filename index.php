@@ -9,5 +9,14 @@
     <marquee behavior="scroll" direction="right"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="left"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="right"><b>Dirty Leeds !!!!<b></marquee>
+    <?php
+    //Assign colors
+    $color = "blue";
+    $color1 = "red";
+    $color2 = "green";
+    echo "Dirty Leeds" . $color . "<br>;
+    echo "Dirty Leeds" . $color1 . "<br>;
+    echo "Dirty Leeds" . $color2 . "<br>;
+    ?>
 </body>
 </html>
