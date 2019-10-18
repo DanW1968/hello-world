@@ -10,9 +10,9 @@
     <marquee behavior="scroll" direction="left"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="right"><b>Dirty Leeds !!!!<b></marquee>
 <?php
-// Some code to be executed
-          $color = "blue";
-          echo "Hello, world!" . $color . "<br>";
+// Defining Constant
+          define("App_Title", "The Dirty Leeds App");
+          echo 'Thanks for visiting ' . App_Title;
 ?>
         
 </body>
