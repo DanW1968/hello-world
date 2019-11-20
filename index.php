@@ -13,7 +13,7 @@
     <marquee behavior="scroll" direction="left" scrollamount="1"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="right" scrollamount="5"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="left" scrollamount="10"><b>Dirty Leeds !!!!<b></marquee>
-    <marquee behavior="scroll" direction="right" scrollamount="3"><b>Dirty Leeds !!!!<b></marquee>
+    <marquee behavior="scroll" direction="right" scrollamount="50"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="up"><b>Dirty Leeds !!!!<b></marquee>
     <br />&nbsp;<br />
     <br />&nbsp;<br />
