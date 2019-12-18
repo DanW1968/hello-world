@@ -10,7 +10,7 @@
           echo 'Thanks for visiting ' . App_Title;
     ?>
     <p><p>
-    <marquee behavior="scroll" direction="left" scrollamount="1"><b>Dirty Leeds !!!!<b></marquee>
+    <marquee behavior="scroll" direction="left" scrollamount="1" style="color:DodgerBlue;"><b>Dirty Leeds!!<b></marquee>
     <marquee behavior="scroll" direction="right" scrollamount="5"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="left" scrollamount="10"><b>Dirty Leeds !!!!<b></marquee>
     <marquee behavior="scroll" direction="right" scrollamount="50"><b>Dirty Leeds !!!!<b></marquee>
