@@ -6,7 +6,7 @@
 <body>
 <style>
 body {
-  background-image: url('example_img_girl.jpg');
+  background-image: url('CY84kfAWAAMRW-o.jpg');
   background-repeat: no-repeat;
 }
 </style>    
