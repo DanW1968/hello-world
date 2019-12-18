@@ -4,6 +4,12 @@
     <title>Danny's world famous Dirty Leeds Web App !!</title>
 </head>
 <body>
+<style>
+body {
+  background-image: url('example_img_girl.jpg');
+  background-repeat: no-repeat;
+}
+</style>    
     <?php
 // Defining Constant
           define("App_Title", "The Dirty Leeds App");
