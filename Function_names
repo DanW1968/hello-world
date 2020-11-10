@@ -1,0 +1,23 @@
+x=5
+print("Hello")
+
+def print_lyrics() :
+    print("I'm a lumberjack and I'm OK")
+    print("I sleep all night and I work all day")
+
+print ("Yo")
+print_lyrics()
+x=x+2
+print(x)
+
+def greet(lang) :
+    if lang == 'es' :
+        print('Hola')
+    elif lang == 'fr' :
+        print('Bonjour')
+    else :
+        print('Hello')
+
+greet('en')
+greet('es')
+greet('fr')
